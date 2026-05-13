@@ -1,5 +1,22 @@
 ---
-title: "temp_website"
+# Welcome
+
+Hi, I’m Felix Tng.
+
+I am currently studying Artificial Intelligence at the Singapore Institute of Technology (SIT).
+
+## Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Full-stack Development
+
+
+## GitHub
+
+Visit my GitHub profile below:
+
+<https://github.com/TngQiLongFelix>
 ---
 
 This is a Quarto website.

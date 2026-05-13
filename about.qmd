@@ -1,5 +1,25 @@
 ---
-title: "About"
+# About Me
+
+## Education
+
+Singapore Institute of Technology (SIT)  
+Bachelor of Science in Artificial Intelligence
+
+## Technical Skills
+
+- Python
+- Java
+- R
+- HTML/CSS
+- Git & GitHub
+
+## Projects
+
+- Machine learning prediction systems
+- Full-stack web applications
+- Java game development using LibGDX
+
 ---
 
 About this site
