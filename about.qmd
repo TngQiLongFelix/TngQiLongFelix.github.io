@@ -1,9 +1,8 @@
----
 # About Me
 
 ## Education
 
-Singapore Institute of Technology (SIT)  
+Singapore Institute of Technology (SIT)\
 Bachelor of Science in Artificial Intelligence
 
 ## Technical Skills
@@ -19,5 +18,3 @@ Bachelor of Science in Artificial Intelligence
 - Machine learning prediction systems
 - Full-stack web applications
 - Java game development using LibGDX
-
----

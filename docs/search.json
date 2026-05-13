@@ -2,15 +2,50 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Singapore Institute of Technology (SIT)\nBachelor of Science in Artificial Intelligence\n\n\n\n\nPython\nJava\nR\nHTML/CSS\nGit & GitHub\n\n\n\n\n\nMachine learning prediction systems\nFull-stack web applications\nJava game development using LibGDX"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Singapore Institute of Technology (SIT)\nBachelor of Science in Artificial Intelligence"
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Python\nJava\nR\nHTML/CSS\nGit & GitHub"
+  },
+  {
+    "objectID": "about.html#projects",
+    "href": "about.html#projects",
+    "title": "About Me",
+    "section": "",
+    "text": "Machine learning prediction systems\nFull-stack web applications\nJava game development using LibGDX"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, I’m Felix Tng.\nI am currently studying Artificial Intelligence at the Singapore Institute of Technology (SIT).\n\n\n\nArtificial Intelligence\nMachine Learning\nFull-stack Development\n\n\n\n\nVisit my GitHub profile below:\nhttps://github.com/TngQiLongFelix"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Welcome",
+    "section": "",
+    "text": "Artificial Intelligence\nMachine Learning\nFull-stack Development"
+  },
+  {
+    "objectID": "index.html#github",
+    "href": "index.html#github",
+    "title": "Welcome",
+    "section": "",
+    "text": "Visit my GitHub profile below:\nhttps://github.com/TngQiLongFelix"
   }
 ]

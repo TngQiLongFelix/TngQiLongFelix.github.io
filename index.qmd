@@ -1,4 +1,3 @@
----
 # Welcome
 
 Hi, I’m Felix Tng.
@@ -11,10 +10,8 @@ I am currently studying Artificial Intelligence at the Singapore Institute of Te
 - Machine Learning
 - Full-stack Development
 
-
 ## GitHub
 
 Visit my GitHub profile below:
 
 <https://github.com/TngQiLongFelix>
----
