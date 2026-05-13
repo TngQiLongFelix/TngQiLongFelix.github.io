@@ -21,9 +21,3 @@ Bachelor of Science in Artificial Intelligence
 - Java game development using LibGDX
 
 ---
-
-About this site
-
-```{r}
-1 + 1
-```
